@@ -1,5 +1,7 @@
 # 이미지에서 균열 추출하기.
 
+## 날짜별 알게 된 것들 [열기](C:\Users\hyun5\OneDrive\본문\문서\GitHub\Homework\날짜별 알게 된 것들.txt)
+
 ## 케글 대회
    Surface Crack Detection [바로가기](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection)
 
