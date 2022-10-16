@@ -18,4 +18,5 @@
 [바로가기](https://www.kaggle.com/code/formeforu/smarcle-w3-concrete-crack-image)
 
 * 작업사항
-1. 
+1. 내가 가진 이미지에서 "균열" "균열아님" 폴더에 이미지를 500개씩 넣는다./n
+ --> 작업중, 균열이 있는 이미지는 넘쳐나는데, 균열이 없는 이미지는 찾기 어려웠다.
