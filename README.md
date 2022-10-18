@@ -19,6 +19,9 @@
 3. 한국어 설명, 학습할 이미지처리에 대해 자세한 설명이 있음.
 [바로가기](https://www.kaggle.com/code/formeforu/smarcle-w3-concrete-crack-image)
 
+4. 모델을 저장하는 방법이 기술되어 있다. 꺼내쓰기까지는 구현하지 않음.
+[바로가기](https://www.kaggle.com/code/jiyajiwon/surface-crack-detection-using-cnn#Model-1:-Inception-V3)
+
 
 
 * 작업사항
