@@ -22,6 +22,9 @@
 4. 모델을 저장하는 방법이 기술되어 있다. 꺼내쓰기까지는 구현하지 않음.
 [바로가기](https://www.kaggle.com/code/jiyajiwon/surface-crack-detection-using-cnn#Model-1:-Inception-V3)
 
+5. 모델을 저장하고 그것을 평가하는 방법까지 구현.
+[바로가기](https://www.kaggle.com/code/kutaykutlu/99-9-acc-resnet50-inceptionv3-vgg16)
+
 
 
 * 작업사항
