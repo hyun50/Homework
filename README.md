@@ -25,7 +25,6 @@
 5. 모델을 저장하고 그것을 평가하는 방법까지 구현.
 [바로가기](https://www.kaggle.com/code/kutaykutlu/99-9-acc-resnet50-inceptionv3-vgg16)&nbsp; 
 <br>
-<br>
 * 작업사항
 1. 내가 가진 이미지에서 "균열" "균열아님" 폴더에 이미지를 500개씩 넣는다.
 
