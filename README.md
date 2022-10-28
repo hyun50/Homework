@@ -50,6 +50,7 @@
  2.2. 집어넣을 이미지 선택, 균열인지 아닌지 판단할 것.<br>
    20221019 비슷한 코딩 발견[바로가기](https://hyjykelly.tistory.com/m/20)<br>
    20221028 다중 이미지 분석 [바로가기](https://zeuskwon-ds.tistory.com/49)
+   20221028 이미지 크기 확인 [바로가기](https://ponyozzang.tistory.com/596)
 <br>
 
 * 날짜별 진행상황<br>
