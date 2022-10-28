@@ -48,7 +48,8 @@
 2. 이미지를 같은 코드로 줄여주는 코드(파이썬) <br>
  2.1. 내가 가진 이미지 500장 추려낼 것. <br>
  2.2. 집어넣을 이미지 선택, 균열인지 아닌지 판단할 것.<br>
-   20221019 비슷한 코딩 발견[바로가기](https://hyjykelly.tistory.com/m/20)
+   20221019 비슷한 코딩 발견[바로가기](https://hyjykelly.tistory.com/m/20)<br>
+   20221028 다중 이미지 분석 [바로가기](https://zeuskwon-ds.tistory.com/49)
 <br>
 
 * 날짜별 진행상황<br>
